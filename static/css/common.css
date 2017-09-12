@@ -3,7 +3,7 @@
 /*-----global setting-----*/
 *{margin:0;padding:0;border:0;}
 html{-webkit-text-size-adjust: none;width:100%;height:100%;margin:0 auto;font-size:15px;}
-body{-webkit-text-size-adjust: none;width:100%;height:100%;margin:0 auto;font-size:15px;position:relative;font-family:"Tahoma","Arial","微软雅黑","Microsoft YaHei","STHeiti","SimHei";-webkit-overflow-scrolling:touch;}
+body{-webkit-text-size-adjust: none;width:100%;height:100%;margin:0 auto;font-size:1rem;position:relative;font-family:"Tahoma","Arial","微软雅黑","Microsoft YaHei","STHeiti","SimHei";-webkit-overflow-scrolling:touch;}
 ol,ul,li,dl,dd,dt{list-style:none;}
 i{font-style:normal;display:block;}
 input,select{border-radius:0;-webkit-appearance:none;}
